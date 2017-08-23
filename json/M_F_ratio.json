@@ -1,0 +1,28 @@
+[
+    {
+        "categorie": "Literate",
+        "values": [
+            {
+                "value": 434763622,
+                "rate": "male"
+            },
+            {
+                "value": 328875190,
+                "rate": "female"
+            }
+        ]
+    },
+    {
+        "categorie": "Illiterate",
+        "values": [
+            {
+                "value": 188506636,
+                "rate": "male"
+            },
+            {
+                "value": 258709529,
+                "rate": "female"
+            }
+        ]
+    }
+]

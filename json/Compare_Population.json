@@ -1,0 +1,177 @@
+[
+    {
+        "States": "State - JAMMU & KASHMIR",
+        "Literate_Population": 7067233,
+        "Illiterate_Population": 5474069
+    },
+    {
+        "States": "State - HIMACHAL PRADESH",
+        "Literate_Population": 5039736,
+        "Illiterate_Population": 1824866
+    },
+    {
+        "States": "State - PUNJAB",
+        "Literate_Population": 18707137,
+        "Illiterate_Population": 9036201
+    },
+    {
+        "States": "State - CHANDIGARH",
+        "Literate_Population": 805438,
+        "Illiterate_Population": 250012
+    },
+    {
+        "States": "State - UTTARAKHAND",
+        "Literate_Population": 6880953,
+        "Illiterate_Population": 3205339
+    },
+    {
+        "States": "State - HARYANA",
+        "Literate_Population": 16598988,
+        "Illiterate_Population": 8752474
+    },
+    {
+        "States": "State - NCT OF DELHI",
+        "Literate_Population": 12737767,
+        "Illiterate_Population": 4050174
+    },
+    {
+        "States": "State - RAJASTHAN",
+        "Literate_Population": 38275282,
+        "Illiterate_Population": 30273155
+    },
+    {
+        "States": "State - UTTAR PRADESH",
+        "Literate_Population": 114397555,
+        "Illiterate_Population": 85414786
+    },
+    {
+        "States": "State - BIHAR",
+        "Literate_Population": 52504553,
+        "Illiterate_Population": 51594899
+    },
+    {
+        "States": "State - SIKKIM",
+        "Literate_Population": 444952,
+        "Illiterate_Population": 165625
+    },
+    {
+        "States": "State - ARUNACHAL PRADESH",
+        "Literate_Population": 766005,
+        "Illiterate_Population": 617722
+    },
+    {
+        "States": "State - NAGALAND",
+        "Literate_Population": 1342434,
+        "Illiterate_Population": 636068
+    },
+    {
+        "States": "State - MANIPUR",
+        "Literate_Population": 1908476,
+        "Illiterate_Population": 947318
+    },
+    {
+        "States": "State - MIZORAM",
+        "Literate_Population": 848175,
+        "Illiterate_Population": 249031
+    },
+    {
+        "States": "State - TRIPURA",
+        "Literate_Population": 2804783,
+        "Illiterate_Population": 869134
+    },
+    {
+        "States": "State - MEGHALAYA",
+        "Literate_Population": 1785005,
+        "Illiterate_Population": 1181884
+    },
+    {
+        "States": "State - ASSAM",
+        "Literate_Population": 19177977,
+        "Illiterate_Population": 12027599
+    },
+    {
+        "States": "State - WEST BENGAL",
+        "Literate_Population": 61538281,
+        "Illiterate_Population": 29737834
+    },
+    {
+        "States": "State - JHARKHAND",
+        "Literate_Population": 18328069,
+        "Illiterate_Population": 14660065
+    },
+    {
+        "States": "State - ODISHA",
+        "Literate_Population": 26742595,
+        "Illiterate_Population": 15231623
+    },
+    {
+        "States": "State - CHHATTISGARH",
+        "Literate_Population": 15379922,
+        "Illiterate_Population": 10165276
+    },
+    {
+        "States": "State - MADHYA PRADESH",
+        "Literate_Population": 42851169,
+        "Illiterate_Population": 29775640
+    },
+    {
+        "States": "State - GUJARAT",
+        "Literate_Population": 41093358,
+        "Illiterate_Population": 19346334
+    },
+    {
+        "States": "State - DAMAN & DIU",
+        "Literate_Population": 188406,
+        "Illiterate_Population": 54841
+    },
+    {
+        "States": "State - DADRA & NAGAR HAVELI",
+        "Literate_Population": 223230,
+        "Illiterate_Population": 120479
+    },
+    {
+        "States": "State - MAHARASHTRA",
+        "Literate_Population": 81554290,
+        "Illiterate_Population": 30820043
+    },
+    {
+        "States": "State - ANDHRA PRADESH",
+        "Literate_Population": 50556760,
+        "Illiterate_Population": 34024017
+    },
+    {
+        "States": "State - KARNATAKA",
+        "Literate_Population": 40647322,
+        "Illiterate_Population": 20447975
+    },
+    {
+        "States": "State - GOA",
+        "Literate_Population": 1165487,
+        "Illiterate_Population": 293058
+    },
+    {
+        "States": "State - LAKSHADWEEP",
+        "Literate_Population": 52553,
+        "Illiterate_Population": 11920
+    },
+    {
+        "States": "State - KERALA",
+        "Literate_Population": 28135824,
+        "Illiterate_Population": 5270237
+    },
+    {
+        "States": "State - TAMIL NADU",
+        "Literate_Population": 51837507,
+        "Illiterate_Population": 20309523
+    },
+    {
+        "States": "State - PUDUCHERRY",
+        "Literate_Population": 957309,
+        "Illiterate_Population": 290644
+    },
+    {
+        "States": "State - ANDAMAN & NICOBAR ISLANDS",
+        "Literate_Population": 294281,
+        "Illiterate_Population": 86300
+    }
+]
